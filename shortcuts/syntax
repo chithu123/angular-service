@@ -1,0 +1,3 @@
+#no need to change false or true in conditional navigation. so we have to create a function for authenticate or not.
+To create a service in angular, to open in terminal new +symbol
+service command <ng genarate service servicename> example: ng generate service _service/auth
